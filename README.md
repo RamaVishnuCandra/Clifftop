@@ -10,6 +10,14 @@ However, in the dynamic process of developing the quality of work we might like 
 
 Through the course of my life, I've met with various accusations of falsity and malicious intent. However, I continue to be very genuine in my striving to maintain a lifestyle of peace. It just happens to be that I work with some ideas that numerous people, for often very different reasons each, disapprove, sometimes to the degree of trying to dismiss or even fight me.
 
+The essence of the conflict is quite simple, and immediately upon recognizing what it is, mostly anyone can make sense of why there would have been conflict in my life. I've chosen to be willing to consider that I could be the reincarnation of Jesus. In and of itself, that's enough for the average audience to question my sanity and ensure distance between their lives and mine.
+
+However, there is more to my own life, and more to life in general, than what that would mean for me to be wrestling with that specific identity. Knowledge representation and information theory, in general, is a valuable interest, and learning how to work with some of the more programmable environments on the Internet nowadays can help many of us survive. My efforts are valid enough in their own right, even if I were just curious and have a liking to “keep up with the Joneses” if I can.
+
+Ecclesiastical proselytization and political agendas would be unwelcome with many otherwise typical associates. If you don't like my writings or my exploration of the tools by which to work with metadata and even the documentation of my own learning process, including where I see how version control techniques could help my thinking and revisioning, then recognize that you don't have to be devoutly audience to my expressions. Of course, an environment like this should be what safe is, but if you can't find me actually committing acts of ill intent, then please limit that type of accusation that is merely based on your own ecclesio-political leaning.
+
+Whatever it is I am, it probably compares to numerous minority lifestyles if it's unusual. I think for myself, including in relation to godliness and identification and spiritual metaphysics and so forth. But I also like learning how to write and revise semantically, and so forth. Thanks.
+
 ### the rest of this page, so far
 
 From this point down, this page was just some notes initially given by the site. I'll update as I'm ready. “Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
