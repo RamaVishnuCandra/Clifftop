@@ -16,7 +16,7 @@ However, there is more to my own life, and more to life in general, than what th
 
 Ecclesiastical proselytization and political agendas would be unwelcome with many otherwise typical associates. If you don't like my writings or my exploration of the tools by which to work with metadata and even the documentation of my own learning process, including where I see how version control techniques could help my thinking and revisioning, then recognize that you don't have to be devoutly audience to my expressions. Of course, an environment like this should be what safe is, but if you can't find me actually committing acts of ill intent, then please limit that type of accusation that is merely based on your own ecclesio-political leaning.
 
-Whatever it is I am, it probably compares to numerous minority lifestyles if it's unusual. I think for myself, including in relation to godliness and identification and spiritual metaphysics and so forth. But I also like learning how to write and revise semantically, and so forth. Thanks.
+Whatever it is I am, it probably compares to numerous minority lifestyles if it's unusual. I think for myself, including in relation to godliness and identification and spiritual metaphysics and so forth. But I also like learning how to write and revise semantically, and that type of intellectual “and so forth.” Thanks.
 
 ### the rest of this page, so far
 
