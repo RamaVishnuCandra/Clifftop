@@ -18,6 +18,10 @@ Ecclesiastical proselytization and political agendas would be unwelcome with man
 
 Whatever it is I am, it probably compares to numerous minority lifestyles if it's unusual. I think for myself, including in relation to godliness and identification and spiritual metaphysics and so forth. But I also like learning how to write and revise semantically, and that type of intellectual “and so forth.” Thanks.
 
+### now some notes for myself about how I want to work with GitHub
+
+Mostly just experimentation within my own repository to see how branches are used, but with consideration of how what I'm doing shows up on Pages.
+
 ### the rest of this page, so far
 
 From this point down, this page was just some notes initially given by the site. I'll update as I'm ready. “Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
