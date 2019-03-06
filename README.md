@@ -6,9 +6,9 @@ I've found the wiki environment pretty suitable for my type of programming inter
 
 However, in the dynamic process of developing the quality of work we might like to achieve with metadata information, version control is gaining my interest. So, I'm going to experiment with the tools offered on this site to see what I can learn further, and what I can do with my own management of my writings and the (though elementary) programming behind the associative metadata that might be called upon by researchers into the designs and processes I've been working with.
 
-### Markdown
+### the rest of this page, so far
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+From this point down, this page was just some notes initially given by the site. I'll update as I'm ready. “Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
@@ -36,4 +36,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.”
