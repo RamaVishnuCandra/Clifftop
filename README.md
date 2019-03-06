@@ -8,7 +8,7 @@ However, in the dynamic process of developing the quality of work we might like 
 
 ### other people’s concerns
 
-Through the course of my life, I've met with various accusations of falsity and malicious intent. However, I continue to be very genuine in my striving to maintain a lifestyle of peace. It just happens to be that I work with some ideas that numerous people, for often very different reasons, disapprove, sometimes to the degree of trying to fight or dismiss me.
+Through the course of my life, I've met with various accusations of falsity and malicious intent. However, I continue to be very genuine in my striving to maintain a lifestyle of peace. It just happens to be that I work with some ideas that numerous people, for often very different reasons each, disapprove, sometimes to the degree of trying to dismiss or even fight me.
 
 ### the rest of this page, so far
 
