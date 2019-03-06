@@ -4,7 +4,7 @@ My own study in life these days is knowledge representation, and information the
 
 I've found the wiki environment pretty suitable for my type of programming interest, but am enjoying learning how to work with semantic wikiing ([Referata](http://referata.com) is a great site). Said semantic environment seems right for my own level of metadative qualification. It provides well for a static audience.
 
-However, in the dynamic process of developing the quality of work we might like to achieve with metadata information, version control is gaining my interest. So, I'm going to experiment with the tools offered on this site to see what I can learn further, and what I can do with my own management of my writings and the (though elementary) programming behind the associative metadata that might be called upon by researchers into the designs and processes I've been working with.
+However, in the dynamic process of developing the quality of work we might like to achieve with metadata information, version control is gaining my interest. So, I'm going to experiment with the tools offered on this site (GitHub) to see what I can learn further, and what I can do with my own management of my writings and the (though elementary) programming behind the associative metadata that might be called upon by researchers into the designs and processes I've been working with.
 
 ### other people’s concerns
 
